@@ -16,7 +16,7 @@ import java.util.Map;
 @Route
 public class ListGui extends VerticalLayout {
 
-    // imie do wyszukania
+    // imie do wyszukania w nowym branchu
     private TextField textFieldImie;
 
     // elementy gui
