@@ -17,6 +17,7 @@ import java.util.Map;
 public class ListGui extends VerticalLayout {
 
     // imie do wyszukania w nowym branchu
+    // i jeszcze jedna zmiana
     private TextField textFieldImie;
 
     // elementy gui
